@@ -1,3 +1,4 @@
 node {
-            sh 'env'
+	sh 'env'
+	echo 'finished'
 }
